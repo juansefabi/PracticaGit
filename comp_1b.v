@@ -10,6 +10,7 @@
 //-- Entradas: i0 e i1
 //-- Salida: eq
 //-- eq = i0.i1 + i0'.i1'
+//--cambio para git
 //-----------------------------------
 module comp_1b(
 	input wire i0, i1,
